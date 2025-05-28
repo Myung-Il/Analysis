@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.13.2" xml:lang="en-US">
+  <compounddef id="classedu_1_1mokpo_1_1myproject_1_1_member_d_t_o" kind="class" language="Java" prot="public">
+    <compoundname>edu::mokpo::myproject::MemberDTO</compoundname>
+    <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classedu_1_1mokpo_1_1myproject_1_1_member_d_t_o_1aae3ea1e16440eb9a348d183c69ca7f38" prot="private" static="no" mutable="no">
+        <type>String</type>
+        <definition>String edu.mokpo.myproject.MemberDTO.id</definition>
+        <argsstring></argsstring>
+        <name>id</name>
+        <qualifiedname>edu.mokpo.myproject.MemberDTO.id</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/main/java/edu/mokpo/myproject/MemberDTO.java" line="13" column="20" bodyfile="src/main/java/edu/mokpo/myproject/MemberDTO.java" bodystart="13" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classedu_1_1mokpo_1_1myproject_1_1_member_d_t_o_1aa6e4047dbf733451e3adc9853af8ee01" prot="private" static="no" mutable="no">
+        <type>String</type>
+        <definition>String edu.mokpo.myproject.MemberDTO.password</definition>
+        <argsstring></argsstring>
+        <name>password</name>
+        <qualifiedname>edu.mokpo.myproject.MemberDTO.password</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/main/java/edu/mokpo/myproject/MemberDTO.java" line="14" column="20" bodyfile="src/main/java/edu/mokpo/myproject/MemberDTO.java" bodystart="14" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classedu_1_1mokpo_1_1myproject_1_1_member_d_t_o_1a13e2f8310e854c08d85f99aa9ae3ba6c" prot="private" static="no" mutable="no">
+        <type>String</type>
+        <definition>String edu.mokpo.myproject.MemberDTO.name</definition>
+        <argsstring></argsstring>
+        <name>name</name>
+        <qualifiedname>edu.mokpo.myproject.MemberDTO.name</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/main/java/edu/mokpo/myproject/MemberDTO.java" line="15" column="20" bodyfile="src/main/java/edu/mokpo/myproject/MemberDTO.java" bodystart="15" bodyend="-1"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="public-func">
+      <memberdef kind="function" id="classedu_1_1mokpo_1_1myproject_1_1_member_d_t_o_1ab4504d2f6c566ecdb6716be4da3d1a61" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>String</type>
+        <definition>String edu.mokpo.myproject.MemberDTO.getId</definition>
+        <argsstring>()</argsstring>
+        <name>getId</name>
+        <qualifiedname>edu.mokpo.myproject.MemberDTO.getId</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/main/java/edu/mokpo/myproject/MemberDTO.java" line="17" column="19" bodyfile="src/main/java/edu/mokpo/myproject/MemberDTO.java" bodystart="17" bodyend="19"/>
+      </memberdef>
+      <memberdef kind="function" id="classedu_1_1mokpo_1_1myproject_1_1_member_d_t_o_1a57042621b822c6655c380a82932dec93" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void edu.mokpo.myproject.MemberDTO.setId</definition>
+        <argsstring>(String id)</argsstring>
+        <name>setId</name>
+        <qualifiedname>edu.mokpo.myproject.MemberDTO.setId</qualifiedname>
+        <param>
+          <type>String</type>
+          <declname>id</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/main/java/edu/mokpo/myproject/MemberDTO.java" line="21" column="17" bodyfile="src/main/java/edu/mokpo/myproject/MemberDTO.java" bodystart="21" bodyend="23"/>
+      </memberdef>
+      <memberdef kind="function" id="classedu_1_1mokpo_1_1myproject_1_1_member_d_t_o_1a29902f07430fcdffb312482f17545d88" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>String</type>
+        <definition>String edu.mokpo.myproject.MemberDTO.getPassword</definition>
+        <argsstring>()</argsstring>
+        <name>getPassword</name>
+        <qualifiedname>edu.mokpo.myproject.MemberDTO.getPassword</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/main/java/edu/mokpo/myproject/MemberDTO.java" line="25" column="19" bodyfile="src/main/java/edu/mokpo/myproject/MemberDTO.java" bodystart="25" bodyend="27"/>
+      </memberdef>
+      <memberdef kind="function" id="classedu_1_1mokpo_1_1myproject_1_1_member_d_t_o_1a80468628591d12f3d10c76ea239cbe2e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void edu.mokpo.myproject.MemberDTO.setPassword</definition>
+        <argsstring>(String password)</argsstring>
+        <name>setPassword</name>
+        <qualifiedname>edu.mokpo.myproject.MemberDTO.setPassword</qualifiedname>
+        <param>
+          <type>String</type>
+          <declname>password</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/main/java/edu/mokpo/myproject/MemberDTO.java" line="29" column="17" bodyfile="src/main/java/edu/mokpo/myproject/MemberDTO.java" bodystart="29" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classedu_1_1mokpo_1_1myproject_1_1_member_d_t_o_1a00b4f500c6ef0284ced4fdbc3b24b003" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>String</type>
+        <definition>String edu.mokpo.myproject.MemberDTO.getName</definition>
+        <argsstring>()</argsstring>
+        <name>getName</name>
+        <qualifiedname>edu.mokpo.myproject.MemberDTO.getName</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/main/java/edu/mokpo/myproject/MemberDTO.java" line="33" column="19" bodyfile="src/main/java/edu/mokpo/myproject/MemberDTO.java" bodystart="33" bodyend="35"/>
+      </memberdef>
+      <memberdef kind="function" id="classedu_1_1mokpo_1_1myproject_1_1_member_d_t_o_1a5c0a54ea17d9ac0bd1459ac6345525ab" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void edu.mokpo.myproject.MemberDTO.setName</definition>
+        <argsstring>(String name)</argsstring>
+        <name>setName</name>
+        <qualifiedname>edu.mokpo.myproject.MemberDTO.setName</qualifiedname>
+        <param>
+          <type>String</type>
+          <declname>name</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/main/java/edu/mokpo/myproject/MemberDTO.java" line="37" column="17" bodyfile="src/main/java/edu/mokpo/myproject/MemberDTO.java" bodystart="37" bodyend="39"/>
+      </memberdef>
+    </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="author"><para>user </para>
+</simplesect>
+</para>
+    </detaileddescription>
+    <location file="src/main/java/edu/mokpo/myproject/MemberDTO.java" line="11" column="7" bodyfile="src/main/java/edu/mokpo/myproject/MemberDTO.java" bodystart="11" bodyend="42"/>
+    <listofallmembers>
+      <member refid="classedu_1_1mokpo_1_1myproject_1_1_member_d_t_o_1ab4504d2f6c566ecdb6716be4da3d1a61" prot="public" virt="non-virtual"><scope>edu::mokpo::myproject::MemberDTO</scope><name>getId</name></member>
+      <member refid="classedu_1_1mokpo_1_1myproject_1_1_member_d_t_o_1a00b4f500c6ef0284ced4fdbc3b24b003" prot="public" virt="non-virtual"><scope>edu::mokpo::myproject::MemberDTO</scope><name>getName</name></member>
+      <member refid="classedu_1_1mokpo_1_1myproject_1_1_member_d_t_o_1a29902f07430fcdffb312482f17545d88" prot="public" virt="non-virtual"><scope>edu::mokpo::myproject::MemberDTO</scope><name>getPassword</name></member>
+      <member refid="classedu_1_1mokpo_1_1myproject_1_1_member_d_t_o_1aae3ea1e16440eb9a348d183c69ca7f38" prot="private" virt="non-virtual"><scope>edu::mokpo::myproject::MemberDTO</scope><name>id</name></member>
+      <member refid="classedu_1_1mokpo_1_1myproject_1_1_member_d_t_o_1a13e2f8310e854c08d85f99aa9ae3ba6c" prot="private" virt="non-virtual"><scope>edu::mokpo::myproject::MemberDTO</scope><name>name</name></member>
+      <member refid="classedu_1_1mokpo_1_1myproject_1_1_member_d_t_o_1aa6e4047dbf733451e3adc9853af8ee01" prot="private" virt="non-virtual"><scope>edu::mokpo::myproject::MemberDTO</scope><name>password</name></member>
+      <member refid="classedu_1_1mokpo_1_1myproject_1_1_member_d_t_o_1a57042621b822c6655c380a82932dec93" prot="public" virt="non-virtual"><scope>edu::mokpo::myproject::MemberDTO</scope><name>setId</name></member>
+      <member refid="classedu_1_1mokpo_1_1myproject_1_1_member_d_t_o_1a5c0a54ea17d9ac0bd1459ac6345525ab" prot="public" virt="non-virtual"><scope>edu::mokpo::myproject::MemberDTO</scope><name>setName</name></member>
+      <member refid="classedu_1_1mokpo_1_1myproject_1_1_member_d_t_o_1a80468628591d12f3d10c76ea239cbe2e" prot="public" virt="non-virtual"><scope>edu::mokpo::myproject::MemberDTO</scope><name>setPassword</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

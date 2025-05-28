@@ -1,0 +1,271 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.13.2" xml:lang="en-US">
+  <compounddef id="classedu_1_1mokpo_1_1myproject_1_1_member_join_form" kind="class" language="Java" prot="public">
+    <compoundname>edu::mokpo::myproject::MemberJoinForm</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">javax.swing.JFrame</basecompoundref>
+    <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classedu_1_1mokpo_1_1myproject_1_1_member_join_form_1a9d25ee2f341bdfe6176c6ec1fa88a205" prot="private" static="no" mutable="no">
+        <type>javax.swing.JButton</type>
+        <definition>javax.swing.JButton edu.mokpo.myproject.MemberJoinForm.btn_memberJoin</definition>
+        <argsstring></argsstring>
+        <name>btn_memberJoin</name>
+        <qualifiedname>edu.mokpo.myproject.MemberJoinForm.btn_memberJoin</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/main/java/edu/mokpo/myproject/MemberJoinForm.java" line="181" column="31" bodyfile="src/main/java/edu/mokpo/myproject/MemberJoinForm.java" bodystart="181" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classedu_1_1mokpo_1_1myproject_1_1_member_join_form_1a64de51d45abe5debe15bd6643156dab0" prot="private" static="no" mutable="no">
+        <type>javax.swing.JLabel</type>
+        <definition>javax.swing.JLabel edu.mokpo.myproject.MemberJoinForm.lbl_id</definition>
+        <argsstring></argsstring>
+        <name>lbl_id</name>
+        <qualifiedname>edu.mokpo.myproject.MemberJoinForm.lbl_id</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/main/java/edu/mokpo/myproject/MemberJoinForm.java" line="182" column="30" bodyfile="src/main/java/edu/mokpo/myproject/MemberJoinForm.java" bodystart="182" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classedu_1_1mokpo_1_1myproject_1_1_member_join_form_1a5e168619833c7838af5e68709ad9815b" prot="private" static="no" mutable="no">
+        <type>javax.swing.JLabel</type>
+        <definition>javax.swing.JLabel edu.mokpo.myproject.MemberJoinForm.lbl_name</definition>
+        <argsstring></argsstring>
+        <name>lbl_name</name>
+        <qualifiedname>edu.mokpo.myproject.MemberJoinForm.lbl_name</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/main/java/edu/mokpo/myproject/MemberJoinForm.java" line="183" column="30" bodyfile="src/main/java/edu/mokpo/myproject/MemberJoinForm.java" bodystart="183" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classedu_1_1mokpo_1_1myproject_1_1_member_join_form_1a38dd305dcef53d6cc869307bb1249e16" prot="private" static="no" mutable="no">
+        <type>javax.swing.JLabel</type>
+        <definition>javax.swing.JLabel edu.mokpo.myproject.MemberJoinForm.lbl_pwd</definition>
+        <argsstring></argsstring>
+        <name>lbl_pwd</name>
+        <qualifiedname>edu.mokpo.myproject.MemberJoinForm.lbl_pwd</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/main/java/edu/mokpo/myproject/MemberJoinForm.java" line="184" column="30" bodyfile="src/main/java/edu/mokpo/myproject/MemberJoinForm.java" bodystart="184" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classedu_1_1mokpo_1_1myproject_1_1_member_join_form_1a3f3ce3ba3d87a608b004423d25dfb2fb" prot="private" static="no" mutable="no">
+        <type>javax.swing.JTextField</type>
+        <definition>javax.swing.JTextField edu.mokpo.myproject.MemberJoinForm.txt_id</definition>
+        <argsstring></argsstring>
+        <name>txt_id</name>
+        <qualifiedname>edu.mokpo.myproject.MemberJoinForm.txt_id</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/main/java/edu/mokpo/myproject/MemberJoinForm.java" line="185" column="34" bodyfile="src/main/java/edu/mokpo/myproject/MemberJoinForm.java" bodystart="185" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classedu_1_1mokpo_1_1myproject_1_1_member_join_form_1ac4694da9d1e2ec06bce89cd07b030749" prot="private" static="no" mutable="no">
+        <type>javax.swing.JTextField</type>
+        <definition>javax.swing.JTextField edu.mokpo.myproject.MemberJoinForm.txt_name</definition>
+        <argsstring></argsstring>
+        <name>txt_name</name>
+        <qualifiedname>edu.mokpo.myproject.MemberJoinForm.txt_name</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/main/java/edu/mokpo/myproject/MemberJoinForm.java" line="186" column="34" bodyfile="src/main/java/edu/mokpo/myproject/MemberJoinForm.java" bodystart="186" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classedu_1_1mokpo_1_1myproject_1_1_member_join_form_1af3d148a52b4137406dfcea15f70cd230" prot="private" static="no" mutable="no">
+        <type>javax.swing.JTextField</type>
+        <definition>javax.swing.JTextField edu.mokpo.myproject.MemberJoinForm.txt_pwd</definition>
+        <argsstring></argsstring>
+        <name>txt_pwd</name>
+        <qualifiedname>edu.mokpo.myproject.MemberJoinForm.txt_pwd</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/main/java/edu/mokpo/myproject/MemberJoinForm.java" line="187" column="34" bodyfile="src/main/java/edu/mokpo/myproject/MemberJoinForm.java" bodystart="187" bodyend="-1"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="public-func">
+      <memberdef kind="function" id="classedu_1_1mokpo_1_1myproject_1_1_member_join_form_1ac0fad90ecb69aa7424df5262d2fc0acd" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>edu.mokpo.myproject.MemberJoinForm.MemberJoinForm</definition>
+        <argsstring>()</argsstring>
+        <name>MemberJoinForm</name>
+        <qualifiedname>edu.mokpo.myproject.MemberJoinForm.MemberJoinForm</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>Creates new form <ref refid="classedu_1_1mokpo_1_1myproject_1_1_member_join_form" kindref="compound">MemberJoinForm</ref> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/main/java/edu/mokpo/myproject/MemberJoinForm.java" line="16" column="12" bodyfile="src/main/java/edu/mokpo/myproject/MemberJoinForm.java" bodystart="16" bodyend="18"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="private-func">
+      <memberdef kind="function" id="classedu_1_1mokpo_1_1myproject_1_1_member_join_form_1a9b77fdfa2be2a78ec6543308ca790224" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void edu.mokpo.myproject.MemberJoinForm.initComponents</definition>
+        <argsstring>()</argsstring>
+        <name>initComponents</name>
+        <qualifiedname>edu.mokpo.myproject.MemberJoinForm.initComponents</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This method is called from within the constructor to initialize the form. WARNING: Do NOT modify this code. The content of this method is always regenerated by the Form Editor. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/main/java/edu/mokpo/myproject/MemberJoinForm.java" line="27" column="18" bodyfile="src/main/java/edu/mokpo/myproject/MemberJoinForm.java" bodystart="27" bodyend="113"/>
+      </memberdef>
+      <memberdef kind="function" id="classedu_1_1mokpo_1_1myproject_1_1_member_join_form_1ad7274eb2ffc931430d29b6f04986e1d9" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void edu.mokpo.myproject.MemberJoinForm.memberJoin</definition>
+        <argsstring>(java.awt.event.MouseEvent evt)</argsstring>
+        <name>memberJoin</name>
+        <qualifiedname>edu.mokpo.myproject.MemberJoinForm.memberJoin</qualifiedname>
+        <param>
+          <type>java.awt.event.MouseEvent</type>
+          <declname>evt</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/main/java/edu/mokpo/myproject/MemberJoinForm.java" line="115" column="18" bodyfile="src/main/java/edu/mokpo/myproject/MemberJoinForm.java" bodystart="115" bodyend="139"/>
+      </memberdef>
+      <memberdef kind="function" id="classedu_1_1mokpo_1_1myproject_1_1_member_join_form_1a91a2e948a3b050868bf8627ffb72ec7e" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void edu.mokpo.myproject.MemberJoinForm.btn_memberJoinActionPerformed</definition>
+        <argsstring>(java.awt.event.ActionEvent evt)</argsstring>
+        <name>btn_memberJoinActionPerformed</name>
+        <qualifiedname>edu.mokpo.myproject.MemberJoinForm.btn_memberJoinActionPerformed</qualifiedname>
+        <param>
+          <type>java.awt.event.ActionEvent</type>
+          <declname>evt</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/main/java/edu/mokpo/myproject/MemberJoinForm.java" line="141" column="18" bodyfile="src/main/java/edu/mokpo/myproject/MemberJoinForm.java" bodystart="141" bodyend="143"/>
+      </memberdef>
+      <memberdef kind="function" id="classedu_1_1mokpo_1_1myproject_1_1_member_join_form_1a347f2985d9a75a557fb5975c8ef77c3a" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean edu.mokpo.myproject.MemberJoinForm.id_check</definition>
+        <argsstring>(String id)</argsstring>
+        <name>id_check</name>
+        <qualifiedname>edu.mokpo.myproject.MemberJoinForm.id_check</qualifiedname>
+        <param>
+          <type>String</type>
+          <declname>id</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/main/java/edu/mokpo/myproject/MemberJoinForm.java" line="190" column="21" bodyfile="src/main/java/edu/mokpo/myproject/MemberJoinForm.java" bodystart="190" bodyend="210"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="classedu_1_1mokpo_1_1myproject_1_1_member_join_form_1a2a73c3535ef4beaff89df00e164ca0f7" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void edu.mokpo.myproject.MemberJoinForm.main</definition>
+        <argsstring>(String args[])</argsstring>
+        <name>main</name>
+        <qualifiedname>edu.mokpo.myproject.MemberJoinForm.main</qualifiedname>
+        <param>
+          <type>String</type>
+          <declname>args</declname>
+          <array>[]</array>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>args</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>the command line arguments </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="src/main/java/edu/mokpo/myproject/MemberJoinForm.java" line="148" column="24" bodyfile="src/main/java/edu/mokpo/myproject/MemberJoinForm.java" bodystart="148" bodyend="178"/>
+      </memberdef>
+    </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="author"><para>user </para>
+</simplesect>
+</para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>edu.mokpo.myproject.MemberJoinForm</label>
+        <link refid="classedu_1_1mokpo_1_1myproject_1_1_member_join_form"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>javax::swing::JFrame</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>edu.mokpo.myproject.MemberJoinForm</label>
+        <link refid="classedu_1_1mokpo_1_1myproject_1_1_member_join_form"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>javax::swing::JFrame</label>
+      </node>
+    </collaborationgraph>
+    <location file="src/main/java/edu/mokpo/myproject/MemberJoinForm.java" line="11" column="7" bodyfile="src/main/java/edu/mokpo/myproject/MemberJoinForm.java" bodystart="11" bodyend="211"/>
+    <listofallmembers>
+      <member refid="classedu_1_1mokpo_1_1myproject_1_1_member_join_form_1a9d25ee2f341bdfe6176c6ec1fa88a205" prot="private" virt="non-virtual"><scope>edu::mokpo::myproject::MemberJoinForm</scope><name>btn_memberJoin</name></member>
+      <member refid="classedu_1_1mokpo_1_1myproject_1_1_member_join_form_1a91a2e948a3b050868bf8627ffb72ec7e" prot="private" virt="non-virtual"><scope>edu::mokpo::myproject::MemberJoinForm</scope><name>btn_memberJoinActionPerformed</name></member>
+      <member refid="classedu_1_1mokpo_1_1myproject_1_1_member_join_form_1a347f2985d9a75a557fb5975c8ef77c3a" prot="private" virt="non-virtual"><scope>edu::mokpo::myproject::MemberJoinForm</scope><name>id_check</name></member>
+      <member refid="classedu_1_1mokpo_1_1myproject_1_1_member_join_form_1a9b77fdfa2be2a78ec6543308ca790224" prot="private" virt="non-virtual"><scope>edu::mokpo::myproject::MemberJoinForm</scope><name>initComponents</name></member>
+      <member refid="classedu_1_1mokpo_1_1myproject_1_1_member_join_form_1a64de51d45abe5debe15bd6643156dab0" prot="private" virt="non-virtual"><scope>edu::mokpo::myproject::MemberJoinForm</scope><name>lbl_id</name></member>
+      <member refid="classedu_1_1mokpo_1_1myproject_1_1_member_join_form_1a5e168619833c7838af5e68709ad9815b" prot="private" virt="non-virtual"><scope>edu::mokpo::myproject::MemberJoinForm</scope><name>lbl_name</name></member>
+      <member refid="classedu_1_1mokpo_1_1myproject_1_1_member_join_form_1a38dd305dcef53d6cc869307bb1249e16" prot="private" virt="non-virtual"><scope>edu::mokpo::myproject::MemberJoinForm</scope><name>lbl_pwd</name></member>
+      <member refid="classedu_1_1mokpo_1_1myproject_1_1_member_join_form_1a2a73c3535ef4beaff89df00e164ca0f7" prot="public" virt="non-virtual"><scope>edu::mokpo::myproject::MemberJoinForm</scope><name>main</name></member>
+      <member refid="classedu_1_1mokpo_1_1myproject_1_1_member_join_form_1ad7274eb2ffc931430d29b6f04986e1d9" prot="private" virt="non-virtual"><scope>edu::mokpo::myproject::MemberJoinForm</scope><name>memberJoin</name></member>
+      <member refid="classedu_1_1mokpo_1_1myproject_1_1_member_join_form_1ac0fad90ecb69aa7424df5262d2fc0acd" prot="public" virt="non-virtual"><scope>edu::mokpo::myproject::MemberJoinForm</scope><name>MemberJoinForm</name></member>
+      <member refid="classedu_1_1mokpo_1_1myproject_1_1_member_join_form_1a3f3ce3ba3d87a608b004423d25dfb2fb" prot="private" virt="non-virtual"><scope>edu::mokpo::myproject::MemberJoinForm</scope><name>txt_id</name></member>
+      <member refid="classedu_1_1mokpo_1_1myproject_1_1_member_join_form_1ac4694da9d1e2ec06bce89cd07b030749" prot="private" virt="non-virtual"><scope>edu::mokpo::myproject::MemberJoinForm</scope><name>txt_name</name></member>
+      <member refid="classedu_1_1mokpo_1_1myproject_1_1_member_join_form_1af3d148a52b4137406dfcea15f70cd230" prot="private" virt="non-virtual"><scope>edu::mokpo::myproject::MemberJoinForm</scope><name>txt_pwd</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

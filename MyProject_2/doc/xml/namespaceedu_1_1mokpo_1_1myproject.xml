@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.13.2" xml:lang="en-US">
+  <compounddef id="namespaceedu_1_1mokpo_1_1myproject" kind="namespace" language="Java">
+    <compoundname>edu::mokpo::myproject</compoundname>
+    <innerclass refid="classedu_1_1mokpo_1_1myproject_1_1_ctl___input_check" prot="public">edu::mokpo::myproject::Ctl_InputCheck</innerclass>
+    <innerclass refid="classedu_1_1mokpo_1_1myproject_1_1_member_d_a_o" prot="public">edu::mokpo::myproject::MemberDAO</innerclass>
+    <innerclass refid="classedu_1_1mokpo_1_1myproject_1_1_member_d_t_o" prot="public">edu::mokpo::myproject::MemberDTO</innerclass>
+    <innerclass refid="classedu_1_1mokpo_1_1myproject_1_1_member_join_form" prot="public">edu::mokpo::myproject::MemberJoinForm</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="src/main/java/edu/mokpo/myproject/Ctl_InputCheck.java" line="5" column="15"/>
+  </compounddef>
+</doxygen>
