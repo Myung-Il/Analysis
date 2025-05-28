@@ -40,4 +40,28 @@ public class Operation {
      * @return  double
      */
     protected double add(double a, double b){ return a+b;}
+    
+    /**
+     * 빼기
+     * @param a double
+     * @param b int
+     * @return  double
+     */
+    protected double subtraction(double a, int b){ return a+b;}
+    
+    /**
+     * 빼기
+     * @param a int
+     * @param b double
+     * @return  double
+     */
+    protected double subtraction(int a, double b){ return a+b;}
+    
+    /**
+     * 빼기
+     * @param a double
+     * @param b double
+     * @return  double
+     */
+    protected double subtraction(double a, double b){ return a+b;}
 }
